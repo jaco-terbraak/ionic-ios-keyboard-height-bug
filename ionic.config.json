@@ -1,5 +1,7 @@
 {
   "name": "ionic-ios-keyboard-height-bug",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
